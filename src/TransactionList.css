@@ -1,0 +1,13 @@
+ul{
+    overflow-y: auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 70vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: rgb(255, 209, 125);
+    padding: 10px;
+}
